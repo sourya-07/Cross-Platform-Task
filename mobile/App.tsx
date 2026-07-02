@@ -126,7 +126,7 @@ function AppContent() {
       {/* Main Header */}
       <View className="px-6 pt-5 pb-4 flex-row items-center justify-between border-b border-gray-100 bg-white">
         <View>
-          <Text className="text-2xl font-bold text-gray-800 tracking-tight">Antigravity Tasks</Text>
+          <Text className="text-2xl font-bold text-gray-800 tracking-tight">Cross Platform Task</Text>
           <Text className="text-xs text-gray-500 font-semibold mt-0.5">
             {isOnline ? 'Online Sync Mode' : 'Offline Mode'}
           </Text>
